@@ -67,7 +67,7 @@ h1{
 
 
 .item:nth-child(1)::after{
-	content: "핑크다";
+	content: "";
 	display: block;
 	position: absolute;
 	top: 50%;
